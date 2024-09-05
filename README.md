@@ -1,3 +1,7 @@
+# Fork
+This is a fork of https://github.com/Karthik-S-Salian/bad-apple-terminal
+The reason I forked it is because it was the best "play bad apple in terminal" project out there but I still wanted to make a few changes/improve it
+
 # bad-apple-terminal
 bad apple video is rendered on terminal by converting each frame to ascii art
 
@@ -19,6 +23,5 @@ https://github.com/zmwangx/rust-ffmpeg/blob/master/examples/dump-frames.rs
 ## Progress
 - [x] minimal working project
 - [x] use ffmpeg for downscaling image instead of manual code
-- [ ] compile with video and audio to single binary
+- [x] compile with video and audio to single binary
 - [ ] try using ffmepg to extract audio instead of external audio file
-
